@@ -1,10 +1,13 @@
-This is a throwaway repository for ML practice problems to train my understanding and skills.
+# ML Practice
 
-Code quality:
-    - Code might be messy and will be unmaintained after I'm done with each exercise.
+A throwaway repository for ML practice problems, used to train my understanding and skills.
 
-LLM usage:
-    - Since this is for practice, I'm going to write out things by hand and then let an LLM correct my mistakes
-    - Might also use this to practice some agentic AI concepts, not sure yet.
+## Code quality
 
-In summary, this repository will be a scratchpad of unmaintained exercise problems.
+Code may be messy and will be unmaintained once each exercise is done.
+
+## LLM usage
+
+Since this is for practice, I write things out by hand and then let an LLM correct my mistakes. I might also use this to practice some agentic AI concepts — not sure yet.
+
+In short, this repository is a scratchpad of unmaintained exercise problems.
